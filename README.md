@@ -1,2 +1,2 @@
 # mcga
-Repositorio para la materia MOdelos computacionales para la gestion administrativa
+Repositorio para la materia Modelos computacionales para la gestion administrativa
